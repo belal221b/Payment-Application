@@ -1,6 +1,9 @@
 # **Payment-Application**
 This project is a payment application that simulates a transaction between a cardholder and a server through a terminal. It includes four header files each with its own set of functions and structures.
 
+# **Application Flowchart**
+![payment-flowchart](https://github.com/belal221b/Payment-Application/assets/84633317/0a7846ab-c680-4619-95d1-965be3445726)
+
 # **app.h**
 This header file defines the appStart() function, which is the main function of the application.
 
